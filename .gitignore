@@ -1,2 +1,4 @@
 .DS_store
-venv
+venv*
+*.csv
+archived
