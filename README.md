@@ -1,4 +1,4 @@
-### README.md for BCI Experiment (EEG Data Analysis) 
+### README.md for BCI Experiment 1/FJ (EEG Data Analysis) 
 
 #### Project Overview
 
