@@ -3,3 +3,4 @@ venv*
 *.csv
 *.html
 archived
+test.ipynb
